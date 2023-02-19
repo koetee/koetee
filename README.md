@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vlad</h1>
-<h3 align="center">I am a novice C# and web developer, with a deep curiosity to delve into the world of programming and web development. While I have a basic understanding of programming concepts, I am determined to acquire and improve my skills, and contribute to innovative projects.</h3>
+<h3 align="left">I am a novice C# and web developer, with a deep curiosity to delve into the world of programming and web development. While I have a basic understanding of programming concepts, I am determined to acquire and improve my skills, and contribute to innovative projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
