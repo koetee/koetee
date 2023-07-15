@@ -1,5 +1,5 @@
 <a href="https://tenor.com/ru/view/menhera-chan-confused-anime-gif-14856773"><img align="left" width="250" src="https://media.tenor.com/ZjgygK098t4AAAAC/menhera-chan-confused.gif"></a>
-  👩🏼‍💻 i work on [koete.ru](https://koete.ru) hi! <br> <samp>
+  👩🏼‍💻 i work on [koete.ru](https://koete.ru)<br> hi! <br> <samp>
   🚲 based in moscow <br>
   🛸 playing: path of exile, stellaris <br>
   🎧 listening to:<br></samp>
