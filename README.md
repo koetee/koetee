@@ -3,7 +3,7 @@
   🚲 based in moscow <br>
   🛸 playing: path of exile, stellaris <br>
   🎧 discord:<br></samp>
-[![Discord Presence](https://lanyard.cnrad.dev/api/274874981169758209&bg=0D1117)](https://discord.com/users/274874981169758209)<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/274874981169758209?&bg=0D1117)](https://discord.com/users/274874981169758209)<br>
 <br><br><br><br><br>
 <samp>
 
