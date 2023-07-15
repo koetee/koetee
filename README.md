@@ -2,11 +2,7 @@
   💻 i work on [koete.ru](https://koete.ru)<br> 
   🚲 based in moscow <br>
   🛸 playing: path of exile, stellaris <br>
-  🎧 listening to:<br></samp>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31acxwctf6kzxqfnbrft6jil74uq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=b43c3c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)<br>
-<br><br><br><br><br>
-<samp>
-🎧 discord:<br></samp>
+  🎧 discord:<br></samp>
 [![Discord Presence](https://lanyard.cnrad.dev/api/274874981169758209)](https://discord.com/users/274874981169758209)<br>
 <br><br><br><br><br>
 <samp>
