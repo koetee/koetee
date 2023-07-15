@@ -1,4 +1,4 @@
-<a href="https://tenor.com/ru/view/menhera-chan-confused-anime-gif-14856773"><img align="left" width="250" src="https://media.tenor.com/ZjgygK098t4AAAAC/menhera-chan-confused.gif"></a>   hi! <br> <samp>
+<a href="https://tenor.com/ru/view/chibi-anime-gif-21013141"><img align="left" width="250" src="https://media.tenor.com/lCs1cxTz2ywAAAAi/chibi-anime.gif"></a>   hi! <br> <samp>
   👩🏼‍💻 i work on [koete.ru](https://koete.ru)<br> 
   🚲 based in moscow <br>
   🛸 playing: path of exile, stellaris <br>
